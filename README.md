@@ -161,8 +161,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## 👨‍💻 Author
 
-Your Name
-- LinkedIn: [Your LinkedIn]()
+Umair Asmat
+- LinkedIn: [www.linkedin.com/in/umair-asmat-57291b15b]()
 - Portfolio: [Your Portfolio]()
 
 ## 🙏 Acknowledgments
