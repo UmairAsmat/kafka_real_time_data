@@ -1,0 +1,6 @@
+kafka-python==2.2.10
+boto3==1.38.27
+pandas==2.1.4
+python-dateutil==2.9.0.post0
+s3fs==2024.2.0
+python-dotenv==1.0.1 
