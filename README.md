@@ -4,7 +4,7 @@ A real-time stock market data engineering project that demonstrates the implemen
 
 ## 🏗️ Architecture
 
-![Architecture](https://raw.githubusercontent.com/username/stock-market-kafka-data-engineering/main/architecture.png)
+![Architecture](https://raw.githubusercontent.com/username/stock-market-kafka-data-engineering/main/data/architecture.png)
 
 The project utilizes the following technologies:
 - Apache Kafka (Producer/Consumer) on EC2
